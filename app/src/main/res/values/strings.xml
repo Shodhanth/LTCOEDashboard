@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LTCOE Dashborard</string>
+    <string name="uicn_hint">UICN</string>
+    <string name="password_hint">Password</string>
+    <string name="Username_hint">Username</string>
+    <string name="strLogin">Login</string>
+</resources>
