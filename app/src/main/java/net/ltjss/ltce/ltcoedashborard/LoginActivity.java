@@ -29,4 +29,12 @@ public class LoginActivity extends AppCompatActivity {
 
         mBtnLogin = (Button) findViewById(R.id.loginBtn);
     }
+
+    @Override
+    protected void onStop() {
+        super.onStop();
+        mUicn.setText("");
+        mUsername.setText("");
+        mPassword.setText("");
+    }
 }
