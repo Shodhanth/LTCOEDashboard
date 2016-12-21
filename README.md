@@ -40,3 +40,18 @@ For more information on [Pull Requests](https://www.youtube.com/watch?v=oFYyTZwM
 2. Please watch this video [Github](https://www.youtube.com/watch?v=0fKg7e37bQE)
 
 3. Please watch this video [Github Pull Requests](https://www.youtube.com/watch?v=oFYyTZwMyAg)
+
+##Work Distribution
+
+| Sr. No | Name      | Task One                      | Task Two                        |
+|--------|-----------|-------------------------------|---------------------------------|
+| 1      | Aishwarya | Choose Color Pallet           | Network Connecions              |
+| 2      | Anagha    | Push Notification             | Handle User Login               |
+| 3      | Inderjeet | Handle student and user login | Choose Color Pallet             |
+| 4      | Jyotsna   | Prof Specific User Interface  | Prof UI Backend                 |
+| 5      | Madhura   | Create a Settings Page        | Database                        |
+| 6      | Pratik    | Network Connecions            | Prof UI interface               |
+| 7      | Shodhanth | Main Dashboard Backend Java   | Detailed View                   |
+| 8      | Siddhi    | Service for database cleanups | Push Notification               |
+| 9      | Yatindra  | Main Dashboard Backend Java   | ------------------------------- |
+| 10     | Varun     | Main Dashboard Desing         | ------------------------------- |
