@@ -3,8 +3,6 @@ general:
         - /home/ubuntu/LTCOEDashboard/app/build/outputs/apk/
 
 machine:
-    java:
-        version: openjdk8
     environment:
         ANDROID_HOME: /usr/local/android-sdk-linux
 
