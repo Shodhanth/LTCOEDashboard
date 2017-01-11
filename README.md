@@ -54,4 +54,4 @@ For more information on [Pull Requests](https://www.youtube.com/watch?v=oFYyTZwM
 | 7      | Shodhanth | Main Dashboard Backend Java   | Detailed View                   |
 | 8      | Siddhi    | Service for database cleanups | Push Notification               |
 | 9      | Yatindra  | Main Dashboard Backend Java   | ------------------------------- |
-| 10     | Varun     | Main Dashboard Desing         | ------------------------------- |
+| 10     | Varun     | Main Dashboard Design         | ------------------------------- |
